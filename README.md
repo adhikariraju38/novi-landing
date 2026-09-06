@@ -111,3 +111,9 @@ Against the production build:
 
 Next.js 16 (App Router, static), React 19, TypeScript, Tailwind CSS 4, Motion, dnd-kit.
 Type is Instrument Serif, Inter and JetBrains Mono, self-hosted through `next/font`.
+
+## Contact
+
+Raju Kumar Yadav\
+itsmeerajuyadav@gmail.com\
+[github.com/adhikariraju38](https://github.com/adhikariraju38)
