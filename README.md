@@ -3,7 +3,7 @@
 A landing page for Novi, a project and task management tool for small, fast moving teams.
 Built for the Veel frontend and design assessment.
 
-**Live:** _(deploying)_
+**Live:** https://novi-landing-omega.vercel.app
 
 ## Run it
 
